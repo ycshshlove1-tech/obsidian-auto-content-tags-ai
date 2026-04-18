@@ -1,0 +1,9 @@
+{
+  "id": "auto-content-tags",
+  "name": "Auto Content Tags",
+  "version": "0.8.0",
+  "minAppVersion": "1.4.0",
+  "description": "Automatically adds frontmatter tags based on note content when files are saved.",
+  "author": "Codex",
+  "isDesktopOnly": false
+}
